@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Here's a link to our wireframes!](https://app.uizard.io/prototypes/PjWwK68v4asnvmYZ8pGg)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Here's a link to our  Trello board!](https://trello.com/b/69tSr3fF/qleanquotes)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Here's a link to our project on GitHub!](https://github.com/Apr-23-LC-LiftOff-STL)
