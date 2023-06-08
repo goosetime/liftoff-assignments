@@ -4,6 +4,9 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Assignment Description
 [Project Setup Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-setup)
 
+Based on the needs of a real St. Louis house cleaning business to update from paper applications, Qlean Quotes offers a faster, more precise way of giving customers quotes online. Users can register a secure account to store their personal information, calculate a quote based on their cleaning service needs, and pay for the quote online through Square.
+
+
 ## Submission Instructions
 
 ### Project Repository
