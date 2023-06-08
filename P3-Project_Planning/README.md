@@ -4,6 +4,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
 
+Based on the needs of a real St. Louis house cleaning business to update from paper applications, Qlean Quotes offers a faster, more precise way of giving customers quotes online. Users can register a secure account to store their personal information, calculate a quote based on their cleaning service needs, and pay for the quote online through Square.
+
+
 ## Submission Instructions
 
 ### Wireframes
