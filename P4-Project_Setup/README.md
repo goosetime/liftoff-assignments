@@ -9,5 +9,14 @@ Based on the needs of a real St. Louis house cleaning business to update from pa
 
 ## Submission Instructions
 
-### Project Repository
+### Wireframes
+
+[Here's a link to our wireframes!](https://app.uizard.io/prototypes/PjWwK68v4asnvmYZ8pGg)
+
+### Project Tracker
+
+[Here's a link to our  Trello board!](https://trello.com/b/69tSr3fF/qleanquotes)
+
+### Project Repository Link
+
 [Here's a link to our project on GitHub!](https://github.com/Apr-23-LC-LiftOff-STL)
