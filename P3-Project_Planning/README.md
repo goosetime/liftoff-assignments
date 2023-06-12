@@ -19,4 +19,4 @@ Based on the needs of a real St. Louis house cleaning business to update from pa
 
 ### Project Repo Link
 
-[Here's a link to our project on GitHub!](https://github.com/Apr-23-LC-LiftOff-STL)
+[Here's a link to our project on GitHub!] (https://github.com/Apr-23-LC-LiftOff-STL/Qlean-Quotes)
